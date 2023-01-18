@@ -6,7 +6,7 @@ This is my Arkanoid (Brick Breaker) implementation in Python. I used Object-Orie
 
 ## Features of the game
 
-- Different block lifes
+- Different block lives
 - Easily editable levels and skins saved in .PNG files
 - Project can be easily expanded in new levels and skins
 - Enjoyable pixel art style and interactive animations
