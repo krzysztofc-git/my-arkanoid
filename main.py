@@ -1,3 +1,8 @@
+# !!!
+# Please DO NOT COPY the code. Read README.md file to learn more.
+
+# Review only
+
 from random import randint
 import pygame
 from pygame.locals import *
