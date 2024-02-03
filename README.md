@@ -1,6 +1,6 @@
 # my-arkanoid
 
-Project is not fully uploaded here, files are for preview only. Contact me for full version or permissions to copy.
+Project is not fully uploaded here, files are for preview only. Contact me for full version or permissions to copy / use.
 
 This is my Arkanoid (Brick Breaker) implementation in Python. I used Object-Oriented Programming (OOP) paradigm in the project.
 
